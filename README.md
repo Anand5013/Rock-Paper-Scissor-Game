@@ -41,4 +41,4 @@ git clone https://github.com/anand5013/rock-paper-scissors-game.git
 
 ## Author
 
-Created by [Your Name](https://github.com/Anand5013)
+Created by [ANAND B](https://github.com/Anand5013)
